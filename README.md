@@ -7,7 +7,7 @@
 1. Download code.zip 
 2. เปิด Terminal --> git clone https://github.com/punyanuch463/Project-Flutter-283.git 
 ## Run
-1.เปิด Device ที่
+1.Vs-Code --> เปิด Device ที่ต้องการ ใน Run --> Start Debugging(F5)
 
 
 
